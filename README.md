@@ -1,6 +1,3 @@
-[index.html](https://github.com/user-attachments/files/28843789/index.html)
-# Politicas-privacidad
-Politicas Privacidad GridLife APP
 <!DOCTYPE html>
 <html lang="es">
 <head>
